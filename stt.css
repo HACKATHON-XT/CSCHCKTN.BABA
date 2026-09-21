@@ -21,5 +21,9 @@ button {
 }
 
 button:hover {
-  background-color: #F3EEEE;
+<<<<<<< HEAD
+  background-color: #976D57 ;
+=======
+  background-color: #F3EEEE ;
+>>>>>>> 0b75ba9e543436231d92d1756c1f3b22a19ef27c
 }
